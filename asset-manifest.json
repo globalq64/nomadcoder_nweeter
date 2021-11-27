@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/nomadcoder_nweeter/static/js/main.81e36335.chunk.js",
+    "main.js.map": "/nomadcoder_nweeter/static/js/main.81e36335.chunk.js.map",
+    "runtime-main.js": "/nomadcoder_nweeter/static/js/runtime-main.4d29c29f.js",
+    "runtime-main.js.map": "/nomadcoder_nweeter/static/js/runtime-main.4d29c29f.js.map",
+    "static/js/2.c5d8ba71.chunk.js": "/nomadcoder_nweeter/static/js/2.c5d8ba71.chunk.js",
+    "static/js/2.c5d8ba71.chunk.js.map": "/nomadcoder_nweeter/static/js/2.c5d8ba71.chunk.js.map",
+    "index.html": "/nomadcoder_nweeter/index.html",
+    "static/js/2.c5d8ba71.chunk.js.LICENSE.txt": "/nomadcoder_nweeter/static/js/2.c5d8ba71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d29c29f.js",
+    "static/js/2.c5d8ba71.chunk.js",
+    "static/js/main.81e36335.chunk.js"
+  ]
+}
